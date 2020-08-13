@@ -1,3 +1,17 @@
+## Coronavirus Tracking Application
+
+Coronavirus Statistics for the world
+
+### Search By:
+
+Country Name
+
+## Live Demo
+
+The Project is Live [here](https://covidstats-world.binayabaral.com.np/).
+
+## Project Starter
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
